@@ -70,7 +70,7 @@ sap.ui.jsview("listmobapp.FirstView", {
              
 		
        return new sap.m.Page({
-			title: "This is List View",
+			title: "Demo List",
 			content: [
 			          
                     otoolBar,
